@@ -1,0 +1,6 @@
+framework module XHProgressView {
+  umbrella header "XHProgressView.h"
+
+  export *
+  module * { export * }
+}
